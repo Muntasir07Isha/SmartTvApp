@@ -3,7 +3,8 @@ import axios from "axios";
 
 const API_KEY = "7802a828c7afbfb178b2eec0cf3d8396"
 const API_URL = `https://api.themoviedb.org/3/trending/movie/week?api_key=${API_KEY}`
-
+ //NOTE: The API key is exposed here for demo purposes only to simplify running the project.
+// In a production environment, this key should be stored securely using environment variables or a backend proxy.
 
 
 function App() {
