@@ -4,6 +4,9 @@ This is an SmartTv App, To see user Top Trending Movies
 
 This is a simple but functional TV app that showcases trending movies using The Movie Database (TMDb) API. It is designed to simulate navigation on a Smart TV using keyboard arrow keys and provides an intuitive interface for browsing movies.
 
+ //NOTE: The API key is exposed here for demo purposes only to simplify running the project.
+// In a production environment, this key should be stored securely using environment variables or a backend proxy.
+
 ## Features
 
 - **Trending Movies Display**: Fetches and displays a list of trending movies from TMDb.
